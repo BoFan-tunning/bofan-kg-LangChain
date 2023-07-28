@@ -78,13 +78,7 @@ python main.py
 
 > 详情见：corpus/zh_wikipedia/README.md
 
-### 知识库向量索引
 
-| 知识库数据                                                                         | FAISS向量                                                              |
-|-------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 中文维基百科截止4月份数据，45万                                                             | 链接：https://pan.baidu.com/s/1VQeA_dq92fxKOtLL3u3Zpg?pwd=l3pn 提取码：l3pn |
-| 截止去年九月的130w条中文维基百科处理结果和对应faiss向量文件 @[yubuyuabc](https://github.com/yubuyuabc) | 链接：https://pan.baidu.com/s/1Yls_Qtg15W1gneNuFP9O_w?pwd=exij 提取码：exij |
-| 💹 [大规模金融研报知识图谱](http://openkg.cn/dataset/fr2kg)                              | 链接：https://pan.baidu.com/s/1FcIH5Fi3EfpS346DnDu51Q?pwd=ujjv 提取码：ujjv |
 
 ## 🔨 TODO
 
